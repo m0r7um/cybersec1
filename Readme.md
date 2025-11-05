@@ -1,6 +1,3 @@
-**Ссылки проекта**
-
-
 **Стек**
 Java/Spring, Hibernate, PostgeSQL
 
